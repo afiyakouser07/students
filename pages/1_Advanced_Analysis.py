@@ -1,5 +1,5 @@
 import streamlit as st
-
+import pandas as pd
 from utils.data_loader import load_data
 from utils.plots import *
 
